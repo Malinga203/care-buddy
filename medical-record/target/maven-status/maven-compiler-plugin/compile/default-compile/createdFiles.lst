@@ -1,0 +1,5 @@
+com\medical_record\medical_record\service\MedicalRecordService.class
+com\medical_record\medical_record\MedicalRecordApplication.class
+com\medical_record\medical_record\controller\MedicalRecordController.class
+com\medical_record\medical_record\data\MedicalRecord.class
+com\medical_record\medical_record\data\MedicalRecordRepository.class
