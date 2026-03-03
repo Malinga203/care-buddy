@@ -1,0 +1,13 @@
+.nav-item-div {
+  padding: 10px 15px;
+  border-radius: 8px;
+  transition: background-color 0.3s, transform 0.2s;
+  color:#000000
+}
+
+.nav-item-div:hover {
+  background-color: rgba(0, 0, 0, 0.08); 
+  cursor: pointer;
+  transform: scale(1.02);
+  color:#1E3A5F ;
+}
